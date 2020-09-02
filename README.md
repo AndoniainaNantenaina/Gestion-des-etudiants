@@ -1,2 +1,2 @@
-# Ceci est un projet de gestion des etudiants faite avec Visual Studio 2019
-# Il y avait utilisation du langage VB.Net, et de MySQL
+# Ceci est un projet de gestion des etudiants realisé en langage Visual Basic.NET
+# IDE: Visual Studio Community 2019
